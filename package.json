@@ -1,0 +1,26 @@
+{
+  "name": "zombiegame",
+  "version": "1.0.0",
+  "description": "This is a zombiegame built using the inquirer node package",
+  "main": "zombieGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christsv/ZombieGame.git"
+  },
+  "keywords": [
+    "inquirer",
+    "Zombie"
+  ],
+  "author": "Chris Valenzuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christsv/ZombieGame/issues"
+  },
+  "homepage": "https://github.com/christsv/ZombieGame#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
